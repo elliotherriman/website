@@ -1,0 +1,1 @@
+cd "$(dirname "$0")"; lsof -n -i4TCP:8000 -sTCP:LISTEN -t | xargs kill; nodemon server.js -e ink,js,css,html

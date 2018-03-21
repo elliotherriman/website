@@ -1,0 +1,285 @@
+body
+{
+	font-family: "Courier Prime", monospace;
+	background: #5a4552;
+	color: white;
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+	overflow: hidden;
+}
+
+/* Seems necessary to make iframes work on itch.io on mobile iOS :-( */
+#container
+{
+    position: absolute;
+    display: block;
+    margin: 0;
+    padding: 0;
+    -webkit-overflow-scrolling: touch;
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+	z-index: 10;    
+}
+
+#story
+{
+	position: relative;
+	margin: 0 auto;
+	height: 100%;
+	width: 500px;
+	min-width: 40vw;
+	max-width: 80vw !important;
+	transition: opacity 2s ease;
+	padding: 0em 1em 0em 1em;
+	text-align: center;
+}
+
+
+@media (hover:none), (hover:on-demand)
+{
+	#story
+	{
+		max-width: 90%;
+	} 
+}
+
+#story > *:first-child {
+	margin-top: 10vh !important;
+}
+
+#story > *:last-child 
+{
+	margin-bottom: 15vh !important;
+}
+
+/* ================================================================= */
+
+p
+{
+	margin-block-start: 0px !important;
+	font-size: 14pt;
+	line-height: 1.4;
+}
+
+p, p > *
+{
+	-webkit-user-drag: none;
+	-khtml-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+}
+
+a 
+{
+	color: #ff8282;
+	text-decoration: none !important;
+	transition: color 150ms linear, opacity 250ms linear;
+}
+
+a:hover
+{
+	opacity: 1;
+	color: white;
+}
+
+.choice p
+{
+	margin-block-end: 0 !important;
+}
+.choice > a
+{
+	color: inherit;
+	opacity: 0.8;
+}
+
+.choice > a:hover
+{
+	opacity: 1;
+}
+
+.chosen
+{
+	color: white !important;
+	opacity: 1 !important;
+}
+
+.frame
+{
+	width: 100%;
+	height: calc(100vw * 0.2);
+	overflow: hidden;
+	position: relative;
+}
+
+#story > p.frame.icon
+{
+	margin-top: 15vh !important;
+	margin-bottom: 2em !important;
+
+	width: 30vh;
+	height: 30vh;
+	margin: auto;
+	border-radius: 1000px;
+	background: black;
+
+	-ms-interpolation-mode: nearest-neighbor;
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+}
+
+.pixels
+{
+	-ms-interpolation-mode: nearest-neighbor;
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+}
+
+/* css for mobile */
+@media (hover:none), (hover:on-demand) 
+{
+	#story > p.frame.icon
+	{
+		width: 50vw;
+		height: 50vw;
+	}
+	.frameLayer
+	{
+		width: 200%;
+		height: 200%;
+	}
+}
+
+.frameLayer
+{
+	position: absolute;
+	width: 200%;
+	height: 200%;
+	display: block;
+	top: -9999px;
+	bottom: -9999px;
+	left: -9999px;
+	right: -9999px;
+	margin: auto;
+	max-width: auto;
+}
+
+.center
+{
+	text-align: center !important;
+}
+
+@media not all and (hover: none)
+{
+	.choice
+	{
+		display: inline-flex;
+		margin-right: 0.5em;
+	}
+	
+	.choice:not(.choice:last-child)::after
+	{
+		margin-left: 0.5em;
+		content: " | ";
+	}
+}
+
+#story > p.text
+{
+	text-align: left;
+}
+
+.progressbar
+{
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	background:#FF7A7A;
+	width: 0%;	
+	height: 1vh;
+	transition: width 300ms linear;
+}
+
+@media (max-width: 749px)
+{
+	.portfolioItem > img, .portfolioItem > a > img
+	{
+		max-width: 80vw;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 1em;
+	}
+}
+
+@media (min-width: 750px)
+{
+	.portfolioItem
+	{
+		display: flex;
+		min-width: 55vw !important;
+		left: -7.5vw;
+		position: relative;
+	}
+	
+	.portfolioItem > img, .portfolioItem > a > img
+	{
+		max-width: 315px;
+		width: 15vw;
+	}
+
+	.portfolioItem > img, .portfolioItem > a
+	{
+		margin-right: 1.5em;
+	}
+	
+	.portfolioItem > *	
+	{
+		display: inline-block;
+		align-self: flex-start;
+	}
+}
+
+.subtitle
+{
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.description > div
+{
+	margin-block-end: 1em;
+}
+
+
+.description > div:last-of-type
+{
+	/* margin-block-end: 0 !important; */
+}
+
+.quote
+{
+	font-style: italic;
+}
+.attribution
+{
+	text-align: right;
+	margin-bottom: 1em;
+}
+
+h2
+{
+	margin-block-start: 0;
+}
+
+img
+{
+	image-orientation: none;
+}
