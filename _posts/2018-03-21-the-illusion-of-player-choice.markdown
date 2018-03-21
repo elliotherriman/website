@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Illusion Of Branching Narratives"
-subtitle: Narratives, zombies, and the theory of wrestling.
+title: "The Illusion Of Player Choice"
+subtitle: Storytelling, zombies, and the theory of wrestling.
 ---
 
-_Telltale Games know they have no choice but to lie to our faces. I think it's about time we give them some credit for it._
+_Telltale Games have spent years lying to our faces. I think it's about time we give them some credit for it._
