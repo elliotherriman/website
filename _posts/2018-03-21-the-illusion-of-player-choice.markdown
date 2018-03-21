@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ignorance, Bliss, And The Illusion Of Player Choice"
-subtitle: Telltale Games have spent years lying to our faces. I think it's time we give them some credit for it. 
+title: "The Illusion Of Branching Narratives"
+subtitle: Narratives, zombies, and the theory of wrestling.
 ---
 
-_I haven't played season three of The Walking Dead and I probably never will._
+_Telltale Games know they have no choice but to lie to our faces. I think it's about time we give them some credit for it._
