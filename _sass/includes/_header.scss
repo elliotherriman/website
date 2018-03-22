@@ -6,7 +6,6 @@
   display: inline;
   float: left;
   width: 100%;
-  margin-top: 10px;
 
   a {
     color: $header-link-color;
@@ -26,19 +25,20 @@
     font-weight: bold;
     font-size: 1em;
     line-height: 1;
+    margin-top: 10px;
     @media (max-width:600px) {
       display: none !important;
     }
   }
   
   .site-nav {
-    margin-top: 10px;
     ul {
       padding: 0;
       list-style: none;
       line-height: 1;
       float: right;
       text-align: right;
+      margin-top: 10px;
     }
     li {
       display: inline;
