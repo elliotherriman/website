@@ -1,5 +1,4 @@
 .post-content > :last-child {
-  margin-bottom: 5px;
 }
 article,
 .comments {
@@ -8,6 +7,7 @@ article,
   float: left;
   width: 100%;
 }
+
 article {
   .subtitle {
     font-size: 1.45em;
@@ -23,6 +23,9 @@ article {
   }
   .footnotes {
     font-size: 0.9em;
+  }
+  .post-content {
+    margin-bottom: 5px;
   }
 }
 header {
