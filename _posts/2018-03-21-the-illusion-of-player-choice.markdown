@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Telltale Games, And The Illusion Of Player Choice"
+title: "The Illusion Of Player Choice"
 subtitle: Storytelling, zombies, and professional wrestling.
 ---
 
