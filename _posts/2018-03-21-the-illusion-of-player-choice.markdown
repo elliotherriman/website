@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Illusion Of Player Choice"
-subtitle: Storytelling, zombies, and the theory of wrestling.
+title: "Telltale Games, And The Illusion Of Player Choice"
+subtitle: Storytelling, zombies, and professional wrestling.
 ---
 
-_Telltale Games have spent years lying to our faces. I think it's about time we give them some credit._
+_For years, Telltale Games have made their living by lying to our faces. I think it's about time we give them some credit for that._
