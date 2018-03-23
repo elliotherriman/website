@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Illusion Of Player Choice"
+title: "There's No Such Thing As Player Choice"
 subtitle: Storytelling, zombies, and professional wrestling.
 ---
 
