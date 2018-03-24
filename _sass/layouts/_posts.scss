@@ -25,7 +25,9 @@ article {
     font-size: 0.9em;
   }
   .post-content {
-    margin-bottom: 5px;
+    .p { 
+      margin-bottom: 5px;
+    }
   }
 }
 header {
