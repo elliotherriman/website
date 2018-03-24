@@ -4,7 +4,7 @@ title: "\"Meaningful Choices\" Adjacent"
 subtitle: Storytelling, zombies, and professional wrestling.
 ---
 
-_Telltale Games have spent years lying to their players. I think it's about time they got some credit for it._
+_"This game series adapts to the choices you make," and other lies worth defending._
 
 ---
 
