@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Hi there!"
 subtitle: I'm still just figuring out the kinks on this thing.
