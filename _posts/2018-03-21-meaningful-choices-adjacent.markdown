@@ -18,7 +18,7 @@ Every fan I've talked to has reached the same conclusion. Wrestling is more ente
 
 This is why kayfabe is upheld. It's one thing for a wrestler to admit off stage that their rivalries were played up, or for the WWE themselves to [post openings for writers](https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/Stamford-CT--Headquarters/Writer_R0001288-1). It would be another entirely to make these claims in the middle of a pay-per-view.
 
-In other words, breaking kayfabe isn't akin to the post-credits scene in Ferris Beuller or a quick quip from Deadpool - it would be like Kermit's puppeteer tapping out half way through a show.
+In other words, breaking kayfabe doesn't mean the post-credits scene in Ferris Beuller or a quick quip from Deadpool - it would be like Kermit's puppeteer tapping out half way through a show.
 
 ---
 
