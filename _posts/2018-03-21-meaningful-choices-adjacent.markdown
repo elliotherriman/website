@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Choices Matter\" Adjacent"
+title: "\"Meaningful Choices\" Adjacent"
 subtitle: Storytelling, zombies, and professional wrestling.
 ---
 
