@@ -22,4 +22,8 @@ In other words, breaking kayfabe doesn't mean the post-credits scene in Ferris B
 
 ---
 
+> "This game series adapts to the choices you make.
+> The story is tailored by how you play."
+
+---
 
