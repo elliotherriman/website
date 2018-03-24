@@ -28,3 +28,5 @@ Which brings me quite nicely to... this.
 
 ---
 [^1]: The risk of injury in professional wrestling isn't non-existant, as I'm sure many would be quick to point out. The stunts that performers undertake are, of course, incredibly physically demanding, and often just as risky. That said, the stunts are largely planned out ahead of time, and all performers involved are presumably more interested in putting on a good show than hammering their opponent into the canvas. 
+
+*[WWE]: World Wrestling Entertainment, Inc.
