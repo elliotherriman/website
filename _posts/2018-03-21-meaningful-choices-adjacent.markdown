@@ -16,10 +16,10 @@ Every time, it's come down to the issue of kayfabe. Originally thought to have o
 
 Every fan I've talked to has reached the same conclusion. Wrestling is more entertaining when the theatrics are played up. Of course they know The Undertaker isn't an immortal necromancer who once buried a man in cement - but holy _shit_ is it so much more fun to watch him on stage than a fifty three year old man named Mark William Calaway.
 
-This is why kayfabe is upheld. It's one thing for a wrestler to admit off stage that their rivalries were played up, or for the WWE themselves to [post openings for writers](https://wwecorp.wd5.myworkdayjobs.com/en-US/wwecorp/job/Stamford-CT--Headquarters/Writer_R0001288-1). It would be another entirely to make these claims in the middle of a pay-per-view.
+This is why kayfabe is upheld. It's one thing for a wrestler to admit off stage that their rivalries were played up, or for the WWE themselves to [post openings for writers](https://wwecorp.wd5.myworkdayjobs.com/wwecorp/). It would be another entirely to make these claims in the middle of a pay-per-view.
 
-In other words, breaking kayfabe doesn't mean the post-credits scene in Ferris Beuller or a quick quip from Deadpool - it would be like Kermit's puppeteer tapping out half way through a show.[^1]
+In other words, breaking kayfabe doesn't mean the post-credits scene in Ferris Beuller or a quick quip from Deadpool - it would be like Kermit's puppeteer tapping out half way through a show.
 
 ---
-[^1]: a a a a a a
+
 
