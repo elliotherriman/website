@@ -16,7 +16,7 @@ Every time, it's come down to the issue of kayfabe. Originally thought to have o
 
 Every fan I've talked to has reached the same conclusion: wrestling is more entertaining when the theatrics are played up. Of course they know The Undertaker isn't an immortal necromancer who once buried a man in cement - but holy _shit_ is it so much more fun to watch him on stage than a fifty three year old man named Mark William Calaway. Kayfabe sets professional apart from other combat sports by allowing for longer fights, a lower risk of injury to its participants[^1], and more engaging spectacles and narratives.
 
-This last bit is why kayfabe is upheld. It's one thing for a wrestler to admit off stage that their rivalries were played up, or for the WWE themselves to [post openings for writers](https://wwecorp.wd5.myworkdayjobs.com/wwecorp/). It would be another entirely to say that sort of thing in the middle of a pay-per-view. In other words, breaking kayfabe doesn't mean the post-credits scene in Ferris Beuller or a quick quip from Deadpool - it would be like Kermit's puppeteer tapping out half way through a show.
+Which is why kayfabe is so important, and it's why it's upheld. It's one thing for a wrestler to admit off stage that their rivalries were played up, or for the WWE themselves to [post openings for writers](https://wwecorp.wd5.myworkdayjobs.com/wwecorp/). It would be another entirely to say that sort of thing in the middle of a pay-per-view. In other words, breaking kayfabe doesn't mean the post-credits scene in Ferris Beuller or a quick quip from Deadpool - it would be like Kermit's puppeteer tapping out half way through a show.
 
 Kayfabe is a lie, yes, but it's a lie for the sake of the viewer's enjoyment. 
 
