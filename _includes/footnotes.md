@@ -1,4 +1,0 @@
-# footnotes.md
----
----
-<sub></sub>
