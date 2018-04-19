@@ -26,6 +26,8 @@ Which brings me quite nicely to... this.
 
 ---
 
-Telltale Games are a bunch of fucking liars. That's all I've got for now. 
+Telltale Games are a bunch of fucking liars. 
+
+That's all I've got for now. 
 
 [^1]: The risk of injury in professional wrestling isn't non-existant, as I'm sure many would be quick to point out. The stunts that performers undertake are, of course, often just as risky as they are physically demanding. That said, these stunts are largely planned out ahead of time, and all performers involved are presumably more interested in putting on a good show than hammering their opponent's head into the canvas. 
