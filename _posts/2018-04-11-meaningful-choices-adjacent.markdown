@@ -18,7 +18,7 @@ It all seems to come down to one simple idea — wrestling is just so much more 
 
 These days, even though it's an open secret that wrestling is "fake", wrestlers still maintain kayfabe. It would be one one thing for them to admit off–stage that their rivalries were played up, or for the WWE themselves to [post openings for writers](https://wwecorp.wd5.myworkdayjobs.com/wwecorp/). It would be another thing entirely to say those things in the middle of a pay-per-view. In other words, breaking kayfabe isn't the equivalent of the post-credits scene in Ferris Beuller or a quick quip from Deadpool — it would be like Kermit's puppeteer tapping out half way through a show. Kayfabe is a lie, yes, but it's a lie for the sake of the viewer's enjoyment. 
 
-Which brings me quite nicely to... this.
+Which brings me nicely to... this.
 
 ---
 
