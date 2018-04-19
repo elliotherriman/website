@@ -10,7 +10,7 @@ _"This game series adapts to the choices you make," and other lies worth defendi
 
 Wrestling is scripted. I know it. We all do. The fans more than anyone.
 
-In my encounters with these fans, the idea has elicited groans seemingly every time it's come up. Yes, they know. No, they don't care. It's better this way, because what you call fake, they call kayfabe. 
+Every time I've heard the idea brought up to a fan, it's elicted the exact same groan. Yes, they know. No, they don't care. It's better this way, because what you call fake, they call kayfabe. 
 
 Originally thought to have originated from the carnival scene, kayfabe is the idea that professional wrestlers and the like should never let their audience see behind the curtain. Wrestlers are expected to stay in character both on–stage and off, and commentators treat twists and turns like they never saw them coming. The façade of non-fiction is maintained at any cost - and as far as I can tell, the fans wouldn't have it any other way. 
 
