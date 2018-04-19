@@ -10,9 +10,9 @@ _"This game series adapts to the choices you make," and other lies worth defendi
 
 Wrestling is scripted. I know it. We all do. The fans more than anyone.
 
-In my encounters with said fans, the idea has elicited groans seemingly every time it's come up. Yes, they know. Yes, they don't care. It's better this way, because what you call fake, they call kayfabe. 
+In my encounters with these fans, the idea has elicited groans seemingly every time it's come up. Yes, they know. Yes, they don't care. It's better this way, because what you call fake, they call kayfabe. 
 
-Originally thought to have originated from the carnival scene, kayfabe is the idea that professional wrestlers and the like should never let their audience see behind the curtain. Wrestlers are expected to stay in character both on stage and off, and commentators treat twists and turns like they never saw them coming. The façade of non-fiction is maintained at any cost - and as far as I can tell, the fans wouldn't have it any other way. 
+Originally thought to have originated from the carnival scene, kayfabe is the idea that professional wrestlers and the like should never let their audience see behind the curtain. Wrestlers are expected to stay in character both on–stage and off, and commentators treat twists and turns like they never saw them coming. The façade of non-fiction is maintained at any cost - and as far as I can tell, the fans wouldn't have it any other way. 
 
 It all seems to come down to one simple idea — wrestling is just so much more entertaining when the theatrics are played up. Of course fans know that The Undertaker isn't an immortal necromancer who once buried a man in cement - but holy _shit_ is it more fun to watch *him* on stage than a fifty three year old man called Mark William Calaway. Besides, they say, kayfabe sets professional wrestling apart from other combat sports. It allows for longer fights, a lower risk of injury to its participants[^1], and most crucially, more engaging and rewarding narratives. To fans, these wrestlers aren't athletes, but *characters*. Without them, without keyfabe, the spell is broken. 
 
@@ -25,5 +25,7 @@ Which brings me quite nicely to... this.
 > "This game series adapts to the choices you make. The story is tailored by how you play."
 
 ---
+
+Telltale Games are a bunch of fucking liars. That's all I've got for now. 
 
 [^1]: The risk of injury in professional wrestling isn't non-existant, as I'm sure many would be quick to point out. The stunts that performers undertake are, of course, often just as risky as they are physically demanding. That said, these stunts are largely planned out ahead of time, and all performers involved are presumably more interested in putting on a good show than hammering their opponent's head into the canvas. 
