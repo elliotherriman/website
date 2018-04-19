@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Hey there, time traveler!"
-subtitle: I'm still just figuring out the kinks on this thing.
+subtitle: I guess you found your way here *before* I become famous.
 ---
-So I guess you found your way here *before* I become famous. That's kinda weird, and just a little spooky.
 
-...but I guess you must have overshot it, because there isn't really any content here yet. Nothing finished, at any rate. 
+That's kinda weird, and just a little spooky.
+
+I'm still working out the kinks on here, though, so you might want to jump forward a month or two. All you'll find right now are a few drafts. Or... half-drafts. Certainly nothing finished, at any rate. 
 
 Sorry about that!
