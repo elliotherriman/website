@@ -46,7 +46,7 @@ No, despite my occasionally sour mouth, I want to offer a defense of Telltale Ga
 
 Hey! Sorry! I'm not done! You're not even meant to be here!
 
-This is an unfinished piece, entirely unedited and probably a poor representation of my abilities as a writer. I'm leaving it hosted while I bring my website's design up to scratch, but it may go unfinished until that point. Until then, feel free to write your own ending!
+This is an unfinished piece, entirely unedited and probably a poor representation of my abilities as a writer. I'm leaving it hosted while I bring my website's design up to scratch, but it may go unfinished until that point. Until then, feel free to come up with your own ending!
 
 ---
 
