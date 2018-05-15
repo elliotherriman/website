@@ -8,13 +8,7 @@ _"This game series adapts to the choices you make," and other lies worth defendi
 
 ---
 
-Hey! So!
-
-This is an unfinished piece, entirely unedited and probably a poor representation of my abilities as a writer. I'm leaving it hosted while I bring my website's design up to scratch, but it may go unfinished until that point. Until then, feel free to write your own ending!
-
----
-
-**I.**
+# I.
 
 Wrestling is scripted. Of course it is. At this point, it's as open a secret as they come — but try bringing it up with any fan and you'll get the same speech they've spent dozens of poor souls perfecting. Yes, they know. No, they don't care. It's better this way, because what you call fake, they call kayfabe.
 
@@ -56,8 +50,11 @@ No, I'm here to offer a defense of Telltale Games. Of how this studio overcame p
 
 ---
 
-## III.
-a A aA aa
+Hey! Sorry! I'm not done! You're not even meant to be here!
+
+This is an unfinished piece, entirely unedited and probably a poor representation of my abilities as a writer. I'm leaving it hosted while I bring my website's design up to scratch, but it may go unfinished until that point. Until then, feel free to write your own ending!
+
+---
 
 [^1]: The risk of injury in professional wrestling isn't non-existant, as I'm sure many would be quick to point out. The stunts that performers undertake are, of course, often just as risky as they are physically demanding. That said, these stunts are largely planned out ahead of time, and all performers involved are presumably more interested in putting on a good show than hammering their opponent's head into the canvas. 
 
