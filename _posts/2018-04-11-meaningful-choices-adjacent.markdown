@@ -8,8 +8,6 @@ _"This game series adapts to the choices you make," and other lies worth defendi
 
 ---
 
-# I.
-
 Wrestling is scripted. Of course it is. At this point, it's as open a secret as they come — but try bringing it up with any fan and you'll get the same speech they've spent dozens of poor souls perfecting. Yes, they know. No, they don't care. It's better this way, because what you call fake, they call kayfabe.
 
 Originally thought to have originated from the carnival scene, kayfabe is the idea that professional wrestlers and the like should never let their audience see behind the curtain. Wrestlers are expected to stay in character both on–stage and off, and commentators treat twists and turns like they never saw them coming. The façade of non-fiction is maintained at any cost - and as far as I can tell, the fans wouldn't have it any other way. 
@@ -28,8 +26,6 @@ Which brings me nicely to... this.
 
 ---
 
-# II.
-
 Although Telltale Games first made themselves known with a series of largely comedic point and click adventure games, the success of The Walking Dead - an episodic game with a heavy emphasis on narrative and player choice - was undoubtedly the driving force behind their pivot towards story-based episodic games. To that end, the epigraph above has appeared at the start of every title from Telltale Games since The Walking Dead, in 2011[^2]. The words have been carefully chosen, I have no doubt, designed to put its audience in the right frame of mind for what's to come. Your actions will have consequences, they seem to say. This world is alive, and your choices will matter.
 
 Only, they often don't. Telltale Games have long faced criticism for leading players to believe that their choices will influence the game's narrative to an extent that Telltale has never been able to provide. Player choice may alter lines of dialogue or even the direction of entire scenes, but the broad story beats are seemingly set in stone. Sure, you might be forced to choose which of two characters you'll rescue from certain death, but whoever you save will end up dead too just a few hours later. Five possible endings to this game? Okay, fine, but the sequel's going to undo all of them.
@@ -46,7 +42,7 @@ As well it should.
 
 I want to be very, very clear on this. I have no intention of criticising Telltale Games, or any of their writers, past or present, for failing to meet audience expectations, regardless of where those expectations came from. What the Mass Effect trilogy managed with Kaidan and Ashley simply isn't realistic for an independent studio operating on a fraction of Bioware's budget. To actually provide the kind of branching narratives that players expect from Telltale would be almost impossible with their resources, and I have no doubt they've known this for longer than the rest of us.
 
-No, I'm here to offer a defense of Telltale Games. Of how this studio overcame practical and financial limitations to consistently deliver games with choices that _feel_ meaningful, even if they aren't. It's all a lie, of course, but it's a lie for our own enjoyment, and by the time we've seen behind the curtain, the credits have long since rolled. Telltale Games must know we'll figure out their trick, but they're still pulling it, because the illusion of player choice doesn't have to hold up through your second playthrough – it just has to last through your first.
+No, I'm here to offer a defense of Telltale Games. Of how this studio overcame practical and financial limitations to consistently deliver games with choices that _feel_ meaningful, even if they aren't. It's all a lie, of course, but it's a lie for our own enjoyment, and by the time we've seen behind the curtain, the credits have long since rolled. Telltale Games must know we'll figure out their trick, but they're still pulling it, because the illusion of player choice doesn't have to hold up through your second playthrough. It just has to last through your first.
 
 ---
 
