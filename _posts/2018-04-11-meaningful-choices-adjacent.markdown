@@ -36,13 +36,13 @@ Yet I can't help but remember finishing the first season of The Walking Dead and
 
 I'm not the first person to say it, but it bears repeating. Telltale Games have mastered the illusion of player choice. They make it seem like our choices will matter more than they ever could. Telltale's claim that their games will "[adapt] to the choices you make" feels almost deceptive at this point, only true on a technicality. There's a reason I've never been able to replay one of their games, no matter how much I enjoyed it the first time through. I've been on reddit, and I've been on YouTube. I've seen the other endings, which is to say I've seen behind the curtain. I know that, once again, my choices don't matter. 
 
-And yet the same exact epigraph appears at the start of every single one of their titles. 
+And yet the same exact epigraph appears at the start of every single one of their games. 
 
 As well it should. 
 
 I want to be very, very clear on this. I have no intention of criticising Telltale Games, or any of their writers, past or present, for failing to meet audience expectations, regardless of where those expectations came from. What the Mass Effect trilogy managed with Kaidan and Ashley simply isn't realistic for an independent studio operating on a fraction of Bioware's budget. To actually provide the kind of branching narratives that players expect from Telltale would be almost impossible with their resources, and I have no doubt they've known this for longer than the rest of us.
 
-No, I'm here to offer a defense of Telltale Games. Of how this studio overcame practical and financial limitations to consistently deliver games with choices that _feel_ meaningful, even if they aren't. It's all a lie, of course, but it's a lie for our own enjoyment, and by the time we've seen behind the curtain, the credits have long since rolled. Telltale Games must know we'll figure out their trick, but they're still pulling it, because the illusion of player choice doesn't have to hold up through your second playthrough. It just has to last through your first.
+No, despite my periodic disappointment with their games, I'm here to defend Telltale Games. To defend the way in which this studio has repeatedly overcame practical and financial limitations to deliver games with choices that _feel_ meaningful, even if they aren't. Yes, it might be a lie, but it's a lie for our own enjoyment, and by the time we've seen behind the curtain, the credits have long since rolled. Telltale Games must know we'll figure out their trick, but they're still pulling it, because the illusion of player choice doesn't have to hold up through your second playthrough. It just has to last through your first.
 
 ---
 
