@@ -14,6 +14,8 @@ This is an unfinished piece, entirely unedited and probably a poor representatio
 
 ---
 
+**I.**
+
 Wrestling is scripted. Of course it is. At this point, it's as open a secret as they come — but try bringing it up with any fan and you'll get the same speech they've spent dozens of poor souls perfecting. Yes, they know. No, they don't care. It's better this way, because what you call fake, they call kayfabe.
 
 Originally thought to have originated from the carnival scene, kayfabe is the idea that professional wrestlers and the like should never let their audience see behind the curtain. Wrestlers are expected to stay in character both on–stage and off, and commentators treat twists and turns like they never saw them coming. The façade of non-fiction is maintained at any cost - and as far as I can tell, the fans wouldn't have it any other way. 
@@ -31,6 +33,8 @@ Which brings me nicely to... this.
 > "This game series adapts to the choices you make. The story is tailored by how you play."
 
 ---
+
+#II.
 
 Although Telltale Games first made themselves known with a series of largely comedic point and click adventure games, the success of The Walking Dead - an episodic game with a heavy emphasis on narrative and player choice - was undoubtedly the driving force behind their pivot towards story-based episodic games. To that end, the epigraph above has appeared at the start of every title from Telltale Games since The Walking Dead, in 2011[^2]. The words have been carefully chosen, I have no doubt, designed to put its audience in the right frame of mind for what's to come. Your actions will have consequences, they seem to say. This world is alive, and your choices will matter.
 
@@ -51,6 +55,9 @@ I want to be very, very clear on this. I have no intention of criticising Tellta
 No, I'm here to offer a defense of Telltale Games. A defense of how this studio overcame practical and financial limitations to consistently deliver games with choices that _feel_ meaningful, even if they aren't. It's a lie, of course, but it's a lie for our own enjoyment, and by the time we've seen behind the curtain, the credits have long since rolled. Telltale Games must know we'll figure out their trick, but they're still pulling it, because the illusion of player choice doesn't have to hold up through your second playthrough – it just has to last through your first.
 
 ---
+
+##III.
+a A aA aa
 
 [^1]: The risk of injury in professional wrestling isn't non-existant, as I'm sure many would be quick to point out. The stunts that performers undertake are, of course, often just as risky as they are physically demanding. That said, these stunts are largely planned out ahead of time, and all performers involved are presumably more interested in putting on a good show than hammering their opponent's head into the canvas. 
 
