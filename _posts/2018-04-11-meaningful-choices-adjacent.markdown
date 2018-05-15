@@ -34,7 +34,7 @@ Which brings me nicely to... this.
 
 ---
 
-#II.
+# II.
 
 Although Telltale Games first made themselves known with a series of largely comedic point and click adventure games, the success of The Walking Dead - an episodic game with a heavy emphasis on narrative and player choice - was undoubtedly the driving force behind their pivot towards story-based episodic games. To that end, the epigraph above has appeared at the start of every title from Telltale Games since The Walking Dead, in 2011[^2]. The words have been carefully chosen, I have no doubt, designed to put its audience in the right frame of mind for what's to come. Your actions will have consequences, they seem to say. This world is alive, and your choices will matter.
 
@@ -56,7 +56,7 @@ No, I'm here to offer a defense of Telltale Games. A defense of how this studio 
 
 ---
 
-##III.
+## III.
 a A aA aa
 
 [^1]: The risk of injury in professional wrestling isn't non-existant, as I'm sure many would be quick to point out. The stunts that performers undertake are, of course, often just as risky as they are physically demanding. That said, these stunts are largely planned out ahead of time, and all performers involved are presumably more interested in putting on a good show than hammering their opponent's head into the canvas. 
