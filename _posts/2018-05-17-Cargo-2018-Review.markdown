@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cargo Review: Australian Film At Its Finest"
-subtitle: Horror sans horror.
+title: "Cargo Review — Horror Sans Horror"
+subtitle: Australian Film At Its Finest.
 ---
 
 A surprisingly fresh approach to an otherwise shambling genre.
