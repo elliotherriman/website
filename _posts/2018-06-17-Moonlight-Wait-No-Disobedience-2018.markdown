@@ -5,6 +5,7 @@ subtitle: An odd note to kick off pride month.
 ---
 
 _Disobedience_ isn't the film I wanted it to be, but that doesn't make it any less important.
+
 ---
 
 When was the last time you watched a movie blind? Not just unspoiled ― I'm talking no trailers, no synopsis, not even a premise. I've heard many swear by it, but having made it forty five minutes into _Dr. Strangelove_ before realising it was a comedy, I've since decided the practice isn't quite for me. The first ten or twenty minutes of any movie is designed to set up the characters and plot, but without the context that IMDb or a friendly neighborhood film critic might give you, you're often left disoriented, forced to figure out exactly where the film's focus lies. It can be fun at times, but it's also far too easy to get the wrong idea of where a film is headed, and end up disappointed over that disconnect.
