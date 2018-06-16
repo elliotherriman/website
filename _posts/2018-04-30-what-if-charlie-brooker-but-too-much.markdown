@@ -22,4 +22,6 @@ Which, given recent events concerning Facebook and targeted advertising and the 
 
 ---
 
-This piece was originally published in the May 2018 issue of The Pelican, under the title _Black Mirror_. The insight that Black Mirror often feels more like horror than it does science fiction was first expressed by Film Crit Hulk, in his article [_Black Mirror Is Kinda Bullshit_](https://birthmoviesdeath.com/2016/10/27/black-mirror-is-kinda-bullshit). 
+This piece was originally published in the May 2018 issue of The Pelican, under the title _Black Mirror_. 
+
+The insight that Black Mirror more closely resembles horror than science fiction was first expressed by Film Crit Hulk, in his article [_Black Mirror Is Kinda Bullshit_](https://birthmoviesdeath.com/2016/10/27/black-mirror-is-kinda-bullshit). 
