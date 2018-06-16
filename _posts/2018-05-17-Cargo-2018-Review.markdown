@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Cargo' Review"
-subtitle: Horror Sans Horror.
+subtitle: Horror sans horror.
 ---
 
 A surprisingly fresh approach to an otherwise shambling genre.
