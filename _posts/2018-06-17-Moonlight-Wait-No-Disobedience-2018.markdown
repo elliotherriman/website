@@ -1,0 +1,20 @@
+---
+layout: post
+title: "'Disobedience' Review"
+subtitle: An odd note to kick off pride month.
+---
+
+_Disobedience_ isn't the film I wanted it to be, but that doesn't make it any less important.
+---
+
+When was the last time you watched a movie blind? Not just unspoiled ― I'm talking no trailers, no synopsis, not even a premise. I've heard many swear by it, but having made it forty five minutes into _Dr. Strangelove_ before realising it was a comedy, I've since decided the practice isn't quite for me. The first ten or twenty minutes of any movie is designed to set up the characters and plot, but without the context that IMDb or a friendly neighborhood film critic might give you, you're often left disoriented, forced to figure out exactly where the film's focus lies. It can be fun at times, but it's also far too easy to get the wrong idea of where a film is headed, and end up disappointed over that disconnect.
+
+Now imagine sitting down to watch _Disobedience_, a film you're so sure will tell the forbidden love of two women raised in a strict religious community, and getting... something else entirely.
+
+_Disobedience_'s marketing heavily styled it as a queer romantic drama with a religious coat of paint, and it often is. But watching it through this lens, something started to feel off to me around the one hour mark. In truth, even though it dabbles in this subject, that just isn't the kind of film _Disobedience_ wants to be. Rather, it chases themes of faith and freedom, using sexuality as a lens through which to explore them. There's overlap between these two approaches, admittedly, but they're meaningfully distinct.
+
+Yet not meaningfully distinguished, if audience reactions are anything to go by. Though _Disobedience_ has been critically acclaimed, discussions have seemed largely underlined by a dissatisfaction over the film's ultimate direction, a lot of which I'd guess comes from a disconnect between audience expectation and the film as presented. Through a lens of sexuality and sexual liberation, the film's direction feels somewhat unsatisfying, yes, but that's largely because that's not what this film is about. This isn't a film about the two women and their relationship. It's about each woman's relationship with herself, her faith, and the culture that raised her. It's about both women finding the freedom to choose what they want. 
+
+Which is more than okay. It's good, even. _Disobedience_ is a fantastic film for what it is ― but I think its greatest obstacle will be convincing its audience of what it isn't. It might be a little less accessible than your standard independent drama, but it's well worth the trouble, just so long as you understand that this isn't quite the film you're hoping for. Which I can't fault it for, really. This isn't a matter of it missing my expectations, so much as it is my expectations missing it. I have no doubt I'd enjoy it much more on a second viewing, because it is a damn good movie. It's just also not the one that I, and many others, wanted it to be.
+
+---
