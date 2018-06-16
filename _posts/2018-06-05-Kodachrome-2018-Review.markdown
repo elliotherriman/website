@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Kodachrome' Review"
-subtitle: A Damn Good Case For Nostalgia
+subtitle: A damn good case for nostalgia.
 ---
 
 Hey, directors of the future, can you maybe romanticise some hobbies that _won't_ bankrupt me?
