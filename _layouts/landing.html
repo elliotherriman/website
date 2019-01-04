@@ -12,7 +12,9 @@
       height: auto;
       margin: 0px auto;
       padding: 50px;
+      margin-top: 50%;
       border:none;
+      align: center;
     }
     h4 {
       font-size: 18px;
@@ -27,13 +29,33 @@
       margin: 0px auto;
       padding: 50px;
       padding-top: 10px;
+      align: center;
     }
+    
+    #nav a{
+      color: yellow;
+    }
+    
+    #nav a.hover {
+      color: blue;
+    }
+    
+    .logo {
+      height: 100px;
+      width: auto;
+      border-radius: 30px;
+      padding: 10px;
+    }
+      
+      
   </style>
   <body>
     <div class="content">
       
+      
       <div id="landing">
-       
+      <img src="https://pbs.twimg.com/profile_images/999638781396307973/_SRJppSE_400x400.jpg" class="logo">
+        
       {{ content }}
         
       </div>
