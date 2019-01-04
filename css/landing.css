@@ -1,15 +1,20 @@
 body {
   font-family: courier-prime, monospace;
 }
+
 #landing {
   font-size: 18px;
   color: grey;
-  width: 600px;
   height: auto;
-  margin-top: 10%;
+  margin: 0px auto;
+
+  margin-top:10%;
+  
+  width: 80%;
+  min-width: 200px;
+  max-width: 400px;
   text-align: center;
   border:none;
-  margin: 0px auto;
 }
 
 h4 {
@@ -19,27 +24,27 @@ h4 {
 
 #nav {
   font-size: 14px;
-  color: yellow;
   height: auto;
   margin: 0px auto;
   padding: 50px;
-  padding-top: 10px;
+  padding-top: 15px;
   text-align: center;
 }
 
 #nav a{
-  color:#efb64e;
+  font-weight:bold;
+  color:#acc1ee;
 }
 
-#nav a.hover {
-  opacity:.6;
+#nav a:hover {
+  opacity:0.7;
 }
 
 .logo {
   height: 100px;
   width: auto;
   border-radius: 100px;
-  padding: 10px;
   margin: 0px auto;
+  margin-bottom: 15px;
   float: center;
 }
