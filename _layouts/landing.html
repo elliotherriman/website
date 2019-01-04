@@ -5,10 +5,43 @@
     body {
      font-family: Courier, monospace;
     }
+    #landing {
+      font-size: 16px;
+      color: grey;
+      width: 500px;
+      height: auto;
+      margin: 0px auto;
+      padding: 50px;
+      border:none;
+    }
+    h4 {
+      font-size: 18px;
+      color: orange;
+    }
+    
+    #nav {
+      font-size: 14px;
+      color: yellow;
+      width: 500px;
+      height: auto;
+      margin: 0px auto;
+      padding: 50px;
+      padding-top: 10px;
+    }
   </style>
   <body>
     <div class="content">
+      
+      <div id="landing">
+       
       {{ content }}
+        
+      </div>
+      
+      <div id="nav">
+        <a href="">fiction</a> <a href="">about</a> <a href="">reviews</a> <a href="">contact</a>
+      </div>
+      
     </div>
     {% include footer.html %}
   </body>
