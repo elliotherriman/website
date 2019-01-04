@@ -8,7 +8,9 @@ body {
   height: auto;
   margin-top: 10%;
   text-align: center;
+  border:none;
 }
+
 h4 {
   font-size: 18px;
   color: orange;
