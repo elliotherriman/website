@@ -1,7 +1,6 @@
 ---
 layout: landing
 custom_css: landing
-permalink: /landing/
 ---
 
 Hi! I'm Elliot, and technically, I have an iMDB page.
