@@ -2,12 +2,13 @@ body {
   font-family: courier-prime, monospace;
 }
 #landing {
-  width: 80%;
+  width: 800px;
   font-size: 16px;
   color: grey;
   height: auto;
   padding: 50px;
   margin-top: 10%;
+  float: center;
   border:none;
   text-align: center;
 }
