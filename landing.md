@@ -1,5 +1,6 @@
 ---
 layout: landing
+custom_css: landing
 permalink: /landing/
 ---
 
