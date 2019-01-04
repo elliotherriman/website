@@ -12,9 +12,9 @@
       height: auto;
       margin: 0px auto;
       padding: 50px;
-      margin-top: 5%;
+      margin-top: 10%;
       border:none;
-      align: center;
+      text-align: center;
     }
     h4 {
       font-size: 18px;
@@ -29,22 +29,24 @@
       margin: 0px auto;
       padding: 50px;
       padding-top: 10px;
-      align: center;
+      text-align: center;
     }
     
     #nav a{
-      color: yellow;
+      color:#efb64e;
     }
     
     #nav a.hover {
-      color: blue;
+      opacity:.6;
     }
     
     .logo {
       height: 100px;
       width: auto;
-      border-radius: 30px;
+      border-radius: 100px;
       padding: 10px;
+      margin: 0px auto;
+      float: center;
     }
       
       
@@ -54,14 +56,14 @@
       
       
       <div id="landing">
-      <img src="https://pbs.twimg.com/profile_images/999638781396307973/_SRJppSE_400x400.jpg" class="logo">
+      <a href=""><img src="https://pbs.twimg.com/profile_images/999638781396307973/_SRJppSE_400x400.jpg" class="logo"></a>
         
       {{ content }}
         
       </div>
       
       <div id="nav">
-        <a href="">fiction</a> <a href="">about</a> <a href="">reviews</a> <a href="">contact</a>
+        <a href="">fiction</a> | <a href="">about</a> | <a href="">reviews</a> | <a href="">contact</a>
       </div>
       
     </div>
