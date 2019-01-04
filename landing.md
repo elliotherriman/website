@@ -1,6 +1,7 @@
 ---
 layout: landing
 title: landing
+hide: true
 permalink: /landing/
 ---
 
