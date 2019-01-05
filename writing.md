@@ -19,14 +19,14 @@ Some extracts from my writing.
 
 ---
 
-**[else: wake()](/scripts/else wake - Elliot Herriman.pdf)**
+**[else: wake()](/scripts/Else\ Wake\ -\ Elliot\ Herriman.pdf)**
 (5 Pages)
 
 *An amateur astronaut is woken to find herself stranded, with just two hours left before she suffocates. A sci-fi thriller set in one room, inspired by Buried.*
 
 ---
 
-**[Freeport](/scripts/Freeport - Elliot Herriman.pdf)**
+**[Freeport](/scripts/Freeport\ -\ Elliot\ Herriman.pdf)**
 (17 Pages)
 
 *Having bluffed his way through a job interview, a booksmart academic is thrown headfirst into the deadly world of privately funded treasure hunting.*
