@@ -1,8 +1,7 @@
 ---
 layout: landing
-custom_css: landing
+custom_css: plain
 ---
+Elliot Herriman<br>
+Writer!
 
-Hi! I'm Elliot, and technically, I have an iMDB page.
-
-I'm a writer and occasional film critic based in Western Australia. I'll be posting an assortment of pieces on here, both narrative and feature based. Some of them may be worth reading, but I can't make any promises
