@@ -13,7 +13,7 @@ Some minor claims to fame include...
 
 - Writing on *Undiscovered*, a short film screened at SXSW, Palm Springs, Clermont-Ferrand, and TIFF, among others. 
 
-- Awarded Scout Film Festival's Emerging Storytellers grant, in collaboration with Sara Litzenberger.
+- Awarded Scout Film Festival's Emerging Storytellers grant in 2019, in collaboration with Sara Litzenberger.
 
 - I don't have a third thing yet.
 
