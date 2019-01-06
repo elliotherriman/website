@@ -5,7 +5,7 @@ permalink: /about/
 custom_css: plain
 ---
 
-Hi! I'm Elliot Herriman, a writer based between Western Australia and New York. 
+Hi! I'm Elliot Herriman, a writer based somewhere between Western Australia and New York. 
 
 Some minor claims to fame include...
 
