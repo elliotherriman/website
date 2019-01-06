@@ -27,7 +27,7 @@ Some short extracts from my screenwriting.
 ---
 
 **[else: wake()](/scripts/Else Wake - Elliot Herriman.pdf)**
-(5 Pages)
+(4 Pages)
 
 *An amateur astronaut is woken to find herself stranded, with just two hours left before she suffocates. A sci-fi thriller set in one room, inspired by Buried.*
 
