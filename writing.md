@@ -8,16 +8,16 @@ custom_css: plain
 **Screenplays**
 ---
 
-Some extracts from my work.
+Some short extracts from my screenwriting.
 
 ---
 
 **[Freeport](/scripts/Freeport - Elliot Herriman.pdf)**
 (17 Pages)
 
-*A booksmart translator bluffs his way into a mysterious expedition, only to find himself thrown headfirst into the world of privately funded treasure hunting.*
+*Having bluffed his way through a job interview, a booksmart translator is thrown headfirst into the world of privately funded treasure hunting.*
 
---
+---
 
 **[There's Something In The Cornfields](/scripts/Cornfields - Elliot Herriman.pdf)**
 (1 Page)
