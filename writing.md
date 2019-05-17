@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 custom_css: plain
 ---
----
+
 **Prose**
 ---
 
@@ -15,6 +15,7 @@ custom_css: plain
 On escaping the past, and what happens next.
 
 ---
+
 **Screenplays**
 ---
 
