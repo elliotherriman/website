@@ -5,17 +5,20 @@ permalink: /writing/
 custom_css: plain
 ---
 
+**Prose**
+---
+
+**[To Wherever She'll Be](/prose/towherever)** (3000 words)
+
+*You wake up in a prairie.*
+
+On escaping the past, and what happens next.
+
+---
 **Screenplays**
 ---
 
 Some short extracts from my screenwriting.
-
----
-
-**[Freeport](/scripts/Freeport - Elliot Herriman.pdf)**
-(17 Pages)
-
-*Having bluffed his way through a job interview, a booksmart translator is thrown headfirst into the world of privately funded treasure hunting.*
 
 ---
 
@@ -33,13 +36,9 @@ Some short extracts from my screenwriting.
 
 ---
 
-**Prose**
----
+**[Freeport](/scripts/Freeport - Elliot Herriman.pdf)**
+(17 Pages)
 
-**[To Wherever She'll Be](/prose/towherever)** (3000 words)
-
-*You wake up in a prairie.*
-
-On escaping the past, and what happens next.
+*Having bluffed his way through a job interview, a booksmart translator is thrown headfirst into the world of privately funded treasure hunting.*
 
 ---
