@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 custom_css: plain
 ---
-
+---
 **Prose**
 ---
 
