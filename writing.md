@@ -25,7 +25,7 @@ On escaping the past, and what happens next.
 
 ---
 
-Unfortunately, while these pieces are under reviewed for publication, I'm not actually allowed to host them publicly. If you're interested in reading them, just shoot me an email through my contact page. 
+Unfortunately, while these pieces are under reviewed for publication, I'm not actually allowed to host them publicly. If you're interested in reading them, just shoot me an email through my [contact page](https://www.elliotherriman.com/contact/). 
 
 ---
 
