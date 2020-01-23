@@ -8,11 +8,24 @@ custom_css: plain
 **Prose**
 ---
 
-**[To Wherever She'll Be](/prose/towherever)** (3000 words)
+**Cover Me In Leaves** (2000 words)
+
+*I've got big plans for my collarbones.*
+
+On bright minds, and the end of all things.
+
+---
+
+
+**To Wherever She'll Be** (3000 words)
 
 *You wake up in a prairie.*
 
 On escaping the past, and what happens next.
+
+---
+
+Unfortunately, while these pieces are under reviewed for publication, I'm not actually allowed to host them publicly. If you're interested in reading them, just shoot me an email through my contact page. 
 
 ---
 
