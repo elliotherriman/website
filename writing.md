@@ -36,6 +36,13 @@ Some short extracts from my screenwriting.
 
 ---
 
+**[Freeport](/scripts/Freeport - Elliot Herriman.pdf)**
+(17 Pages)
+
+*Having bluffed his way through a job interview, a booksmart translator is thrown headfirst into the world of privately funded treasure hunting.*
+
+---
+
 **[There's Something In The Cornfields](/scripts/Cornfields - Elliot Herriman.pdf)**
 (1 Page)
 
@@ -47,12 +54,5 @@ Some short extracts from my screenwriting.
 (4 Pages)
 
 *An amateur astronaut is woken to find herself stranded, with just two hours left before she suffocates. A sci-fi thriller set in one room, inspired by Buried.*
-
----
-
-**[Freeport](/scripts/Freeport - Elliot Herriman.pdf)**
-(17 Pages)
-
-*Having bluffed his way through a job interview, a booksmart translator is thrown headfirst into the world of privately funded treasure hunting.*
 
 ---
