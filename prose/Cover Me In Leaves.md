@@ -1,4 +1,8 @@
->*Cover Me In Leaves*
+---
+layout: piece
+custom_css: plain
+permalink: /prose/covermeinleaves
+---
 
 It's the end of summer, sunset air weighing down like a blanket, and your fingers trace the lines beneath my sleeve.
 
