@@ -5,6 +5,18 @@ permalink: /writing/
 custom_css: plain
 ---
 
+**Interactive**
+---
+
+**[Outside](https://elliotherriman.itch.io/outside)** (15 to 30 minutes)
+
+*"Sometimes I just want to pick you up and shake you like a shitty little racoon."*
+
+Ren is out of food, and the cabin fever has set in. But the world outside is... 
+
+Well. Outside.
+---
+
 **Prose**
 ---
 
