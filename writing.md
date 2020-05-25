@@ -43,13 +43,6 @@ Some short extracts from my screenwriting.
 
 ---
 
-**[There's Something In The Cornfields](/scripts/Cornfields - Elliot Herriman.pdf)**
-(1 Page)
-
-*Set against the backdrop of a crumbling middle America, four runaway teens are thrown into the fight of their lives against a paranormal monster, and the culture that created it.*
-
----
-
 **[else: wake()](/scripts/Else Wake - Elliot Herriman.pdf)**
 (4 Pages)
 
