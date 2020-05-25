@@ -4,6 +4,7 @@ title: Writing
 permalink: /writing/
 custom_css: plain
 ---
+
 **Interactive**
 ---
 
@@ -16,6 +17,7 @@ Ren is out of food, and the cabin fever has set in. But the world outside is...
 Well. Outside.
 
 ---
+
 **Prose**
 ---
 
@@ -39,6 +41,7 @@ On escaping the past, and what happens next.
 Unfortunately, while these pieces are under review for publication, I can't host them publicly. If you're interested in reading them, just shoot me an email through my [contact page](https://www.elliotherriman.com/contact/). 
 
 ---
+
 **Screenplays**
 ---
 
