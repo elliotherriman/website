@@ -54,10 +54,10 @@ On escaping the past, and whatever comes next.
 
 Recipient of the 2019 Scout Film Festival Emerging Filmmakers Grant.
 
-This one's still unreleased, so message me on Twitter if you need a password!
+This one was meant to be released in early 2020, but since so many film festivals have been cancelled, we've had to keep it private for now! Just message me on Twitter if you need a password!
 
 **[Undiscovered](https://saralitzenberger.com/undiscovered)** (3 minutes)
 
-**Sasquatch has always remained elusive in photos--but not for the reasons we think.
+**Sasquatch has always remained elusive in photos--but not for the reasons we think.**
 
-Aided with the narrative design and direction of this short film that aired at SXSW, Palm Springs, Clermont-Ferrand, and TIFF, among others.
+Aided with the narrative design of this short film, which aired at SXSW, Palm Springs, Clermont-Ferrand, and TIFF, among others.
