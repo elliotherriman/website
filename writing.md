@@ -37,6 +37,8 @@ Originally made as part of NaNoRenO 2020+.
 
 On first dates, sharp teeth, and predation.
 
+---
+
 **[To Wherever She'll Be](https://www.elliotherriman.com/prose/towherever)** (3000 words)
 
 *You wake up in a prairie.*
@@ -55,6 +57,8 @@ On escaping the past, and whatever comes next.
 Recipient of the 2019 Scout Film Festival Emerging Filmmakers Grant.
 
 This one was meant to be released in early 2020, but since so many film festivals have been cancelled, we've had to keep it private for now! Just message me on Twitter if you need a password!
+
+---
 
 **[Undiscovered](https://saralitzenberger.com/undiscovered)** (3 minutes)
 
