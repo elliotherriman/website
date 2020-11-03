@@ -35,7 +35,7 @@ Originally made as part of NaNoRenO 2020+.
 
 *This was new to me too, once.*
 
-On first dates, temptations, and garlic.
+On first dates, sharp teeth, and predation.
 
 **[To Wherever She'll Be](https://www.elliotherriman.com/prose/towherever)** (3000 words)
 
