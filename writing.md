@@ -16,7 +16,7 @@ Available on [Steam](https://store.steampowered.com/app/1431420/10mg_Cover_Me_In
 
 ---
 
-**[Outside](https://elliotherriman.itch.io/outside)** (10 to 15 minutes)
+**[Outside](https://elliotherriman.itch.io/outside)** (5 to 15 minutes)
 
 *"Sometimes I just want to pick you up and shake you like a shitty little racoon."*
 
