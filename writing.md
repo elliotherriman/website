@@ -24,10 +24,18 @@ Ren is out of food, and the cabin fever has set in. But the world outside is...
 
 Well. Outside.
 
+Originally made as part of NaNoRenO 2020+.
+
 ---
 
 **Prose**
 ---
+
+**[Teeth Into Bone](https://www.elliotherriman.com/prose/teethintobone)** (800 words)
+
+*This was new to me too, once.*
+
+On first dates, temptations, and garlic.
 
 **[To Wherever She'll Be](https://www.elliotherriman.com/prose/towherever)** (3000 words)
 
@@ -37,23 +45,19 @@ On escaping the past, and whatever comes next.
 
 ---
 
-**Screenplays**
+**Short Films**
 ---
 
-Some short extracts from my screenwriting.
+**[Big Boned](https://player.vimeo.com/video/406099773)** (2 minutes)
 
----
+*For a giant in the big city, it's difficult to fit in.*
 
-**[Freeport](/scripts/Freeport - Elliot Herriman.pdf)**
-(17 Pages)
+Recipient of the 2019 Scout Film Festival Emerging Filmmakers Grant.
 
-*Having bluffed his way through a job interview, a booksmart translator is thrown headfirst into the world of privately funded treasure hunting.*
+This one's still unreleased, so message me on Twitter if you need a password!
 
----
+**[Undiscovered](https://saralitzenberger.com/undiscovered)** (3 minutes)
 
-**[else: wake()](/scripts/Else Wake - Elliot Herriman.pdf)**
-(4 Pages)
+**Sasquatch has always remained elusive in photos--but not for the reasons we think.
 
-*An amateur astronaut is woken to find herself stranded, with just two hours left before she suffocates. A sci-fi thriller set in one room, inspired by Buried.*
-
----
+Aided with the narrative design and direction of this short film that aired at SXSW, Palm Springs, Clermont-Ferrand, and TIFF, among others.
