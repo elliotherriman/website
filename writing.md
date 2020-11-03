@@ -62,6 +62,6 @@ This one was meant to be released in early 2020, but since so many film festival
 
 **[Undiscovered](https://saralitzenberger.com/undiscovered)** (3 minutes)
 
-**Sasquatch has always remained elusive in photos--but not for the reasons we think.**
+*Sasquatch has always remained elusive in photos — but not for the reasons we think.*
 
 Aided with the narrative design of this short film, which aired at SXSW, Palm Springs, Clermont-Ferrand, and TIFF, among others.
