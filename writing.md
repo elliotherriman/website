@@ -5,6 +5,10 @@ permalink: /writing/
 custom_css: plain
 ---
 
+Hi! I'm Elliot Herriman, a writer (and programmer) based in Australia.
+
+Please feel free to reach out to me if you have any questions about the work here, or need additional samples!
+
 **Interactive Fiction**
 ---
 
@@ -12,7 +16,7 @@ custom_css: plain
 
 *On bright minds, and the end of all things.*
 
-Available on [Steam](https://store.steampowered.com/app/1431420/10mg_Cover_Me_In_Leaves/) and [itch.io](https://elliotherriman.itch.io/cover-me-in-leaves). This one's paid, so feel free to contact me via Twitter if money's a little tight, or you're interested in this for portfolio reasons!
+Available on [Steam](https://store.steampowered.com/app/1431420/10mg_Cover_Me_In_Leaves/) and [itch.io](https://elliotherriman.itch.io/cover-me-in-leaves). This one's paid, so feel free to contact me [via Twitter](https://twitter.com/elliotherriman) if money's a little tight, or you're interested in this for portfolio reasons!
 
 ---
 
