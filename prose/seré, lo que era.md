@@ -1,3 +1,9 @@
+---
+layout: piece
+custom_css: plain
+permalink: /prose/sereloqueera
+---
+
 **seré, lo que era**
 
 ---
