@@ -9,7 +9,7 @@ Hi! I'm Elliot Herriman, a writer (and programmer) based in Australia.
 
 I tend to only host my recent work on here. If you have any questions, or need additional samples, just shoot me a message [on Twitter](https://twitter.com/elliotherriman).
 
-**Interactive Fiction**
+**Interactive**
 ---
 
 **Cover Me In Leaves** (5 to 15 minutes)
@@ -57,7 +57,7 @@ On gifts from the fae, acceptance, and mercy.
 
 ---
 
-**Short Films**
+**Screen**
 ---
 
 **[Big Boned](https://player.vimeo.com/video/406099773)** (2 minutes)
