@@ -32,6 +32,12 @@ Originally made as part of NaNoRenO 2020+.
 
 ---
 
+**[The Sword That Sealed The Darkness](https://gamebanana.com/gamefiles/12800)**
+
+A mod for The Legend of Zelda: Breath of the Wild, designed to rebalance weapon durability in a way that remains consistent to the overarching themes, pacing, and gameplay of the original title.
+
+---
+
 **Prose**
 ---
 
