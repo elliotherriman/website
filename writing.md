@@ -34,7 +34,7 @@ Originally made as part of NaNoRenO 2020+.
 
 **[The Sword That Sealed The Darkness](https://gamebanana.com/gamefiles/12800)**
 
-A mod for The Legend of Zelda: Breath of the Wild, adding a new weapon, dialogue, events, and mechanics. Designed to rebalance weapon durability in a way that remains faithful to the original game's themes, pacing, and feel.
+A mod for The Legend of Zelda: Breath of the Wild, adding dialogue, events, and mechanics. Designed to rebalance weapon durability in a way that remains faithful to the original game's themes, pacing, and feel.
 
 ---
 
@@ -45,7 +45,7 @@ A mod for The Legend of Zelda: Breath of the Wild, adding a new weapon, dialogue
 
 *This was new to me too, once.*
 
-On first dates, sharp teeth, and predation.
+On first dates, teeth, and predation.
 
 ---
 
