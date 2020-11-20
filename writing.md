@@ -47,6 +47,8 @@ A mod for The Legend of Zelda: Breath of the Wild, adding dialogue, events, and 
 
 On first dates, teeth, and predation.
 
+---
+
 **[seré, lo que era](https://www.elliotherriman.com/prose/teethintobone)** (700 words)
 
 *The breeze through the trees. And everything was still.*
