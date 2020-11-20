@@ -49,11 +49,11 @@ On first dates, teeth, and predation.
 
 ---
 
-**[seré, lo que era](https://www.elliotherriman.com/prose/teethintobone)** (700 words)
+**[seré, lo que era](https://www.elliotherriman.com/prose/sereloqueera)** (700 words)
 
 *The breeze through the trees. And everything was still.*
 
-On gifts from the fair folk, and acceptance.
+On gifts from the fae, acceptance, and mercy.
 
 ---
 
