@@ -43,14 +43,6 @@ On first dates, sharp teeth, and predation.
 
 ---
 
-**[To Wherever She'll Be](https://www.elliotherriman.com/prose/towherever)** (3000 words)
-
-*You wake up in a prairie.*
-
-On escaping the past, and whatever comes next.
-
----
-
 **Short Films**
 ---
 
