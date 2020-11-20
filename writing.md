@@ -16,7 +16,7 @@ If you have any questions about the work here, or need additional samples, just 
 
 *On bright minds, and the end of all things.*
 
-Available on [Steam](https://store.steampowered.com/app/1431420/10mg_Cover_Me_In_Leaves/) and [itch.io](https://elliotherriman.itch.io/cover-me-in-leaves). This one's paid, so feel free to contact me if money's a little tight, or you're interested in this for portfolio reasons!
+A short work of linear interactive horror fiction. Available on [Steam](https://store.steampowered.com/app/1431420/10mg_Cover_Me_In_Leaves/) and [itch.io](https://elliotherriman.itch.io/cover-me-in-leaves).
 
 ---
 
