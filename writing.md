@@ -7,7 +7,7 @@ custom_css: plain
 
 Hi! I'm Elliot Herriman, a writer (and programmer) based in Australia.
 
-If you have any questions about the work here, or need additional samples, just shoot me a message [on Twitter](https://twitter.com/elliotherriman).
+I tend to only host my recent work on here. If you have any questions, or need additional samples, just shoot me a message [on Twitter](https://twitter.com/elliotherriman).
 
 **Interactive Fiction**
 ---
