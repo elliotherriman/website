@@ -49,11 +49,11 @@ h4 {
 }
 blockquote {
     border-left: 2px solid;
-    padding: 1em 1em;
+    padding: 0em 1em;
 }
 blockquote p:last-child,
 footer p:last-child {
-  margin-bottom: 0 !important;
+  margin-bottom: 0px !important;
 }
 table {
   table-layout:fixed;
