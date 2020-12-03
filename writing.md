@@ -18,6 +18,10 @@ I tend to only host my recent work on here. If you have any questions, or need a
 
 A short work of linear interactive horror fiction. Available on [Steam](https://store.steampowered.com/app/1431420/10mg_Cover_Me_In_Leaves/) and [itch.io](https://elliotherriman.itch.io/cover-me-in-leaves).
 
+> *"extremely stirring ... mightily well-written ... the catharsis which declared itself in every sentence of her story was loud, clear, and universally comprehensible."*
+
+- Nate Crowley, [Rock Paper Shotgun](https://www.rockpapershotgun.com/2020/10/16/the-ten-minute-indie-games-of-the-10mg-collection-reviewed-in-ten-minutes-each/)
+
 ---
 
 **[Outside](https://elliotherriman.itch.io/outside)** (5 to 15 minutes)
@@ -28,7 +32,7 @@ Ren is out of food, and the cabin fever has set in. But the world outside is...
 
 Well. Outside.
 
-Originally made as part of NaNoRenO 2020+.
+A kinetic novel, originally made as part of NaNoRenO 2020+.
 
 ---
 
