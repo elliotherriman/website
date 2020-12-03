@@ -18,7 +18,7 @@ I tend to only host my recent work on here. If you have any questions, or need a
 
 A short work of linear interactive horror fiction. Available on [Steam](https://store.steampowered.com/app/1431420/10mg_Cover_Me_In_Leaves/) and [itch.io](https://elliotherriman.itch.io/cover-me-in-leaves).
 
-> "extremely stirring ... mightily well-written ... the catharsis which declared itself in every sentence of her story was loud, clear, and universally comprehensible."*
+> *"extremely stirring ... mightily well-written ... the catharsis which declared itself in every sentence of her story was loud, clear, and universally comprehensible."*
 > 
 > — Nate Crowley, [Rock Paper Shotgun](https://www.rockpapershotgun.com/2020/10/16/the-ten-minute-indie-games-of-the-10mg-collection-reviewed-in-ten-minutes-each/)
 
