@@ -20,9 +20,9 @@ A short work of linear interactive horror fiction. Available on [Steam](https://
 
 ---
 
-*"extremely stirring ... mightily well-written ... the catharsis which declared itself in every sentence of her story was loud, clear, and universally comprehensible."*
+```"extremely stirring ... mightily well-written ... the catharsis which declared itself in every sentence of her story was loud, clear, and universally comprehensible."*
 
-— Nate Crowley, [Rock Paper Shotgun](https://www.rockpapershotgun.com/2020/10/16/the-ten-minute-indie-games-of-the-10mg-collection-reviewed-in-ten-minutes-each/)
+— Nate Crowley, [Rock Paper Shotgun](https://www.rockpapershotgun.com/2020/10/16/the-ten-minute-indie-games-of-the-10mg-collection-reviewed-in-ten-minutes-each/)```
 
 ---
 
